@@ -11,14 +11,12 @@ O objetivo deste desafio é avaliar as habilidades dos candidatos em desenvolver
 * Banco de dados H2
 
 ### Funcionalidades:
-#### CRUD Completo com Rest:
+#### CRUD Completo:
 * Criar CNPJ
 * Listar CNPJ
 * Buscar CNPJ por ID
 * Atualizar CNPJ
 * Deletar CNPJ
-
-#### Cada serviço desse deve ter 1 endpoint
 
 #### Campos do CNPJ:
 * id (gerado automaticamente)
